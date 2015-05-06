@@ -1,6 +1,6 @@
 ## Clojure Friends
 
-We're building an app like [Ruby Freinds](http://rubyfriends.com/)
+We're building an app like [Ruby Friends](http://rubyfriends.com/)
 to learn about Clojure web development
 
 ## Contributing
